@@ -862,6 +862,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vince/proprietary/vendor/lib/libsensor_user_cal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor_user_cal.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libskia.so:$(TARGET_COPY_OUT_VENDOR)/lib/libskia.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libsmwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsmwrapper.so \
+    vendor/xiaomi/vince/proprietary/vendor/lib/libthermalfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalfeature.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml2_1.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libubifocus.so:$(TARGET_COPY_OUT_VENDOR)/lib/libubifocus.so \
     vendor/xiaomi/vince/proprietary/vendor/lib/libvidhance.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvidhance.so \
