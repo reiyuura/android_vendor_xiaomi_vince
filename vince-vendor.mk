@@ -1089,7 +1089,6 @@ PRODUCT_PACKAGES += \
     IWlanService \
     TimeService \
     PowerOffAlarm \
-    ImsRcsService \
     QtiTelephonyService \
     datastatusnotification \
     embms \
